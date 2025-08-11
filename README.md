@@ -1,3 +1,5 @@
+📌 Note: This task is part of a structured internship to reinforce basic ML skills. It’s not meant to reflect my current skill level or portfolio quality.
+
 # 🍄 Mushroom Classification – Tree Models
 
 This project uses **Decision Tree** and **Random Forest** classifiers to predict whether a mushroom is **edible** or **poisonous**, based on the [Mushroom Classification Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification).
